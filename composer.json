@@ -1,0 +1,12 @@
+{
+    "name": "kieran/php-unit-bug",
+    "require": {
+        "phpunit/phpunit": "^9.4"
+    },
+    "authors": [
+        {
+            "name": "Kieran Brahney",
+            "email": "kieran@supportpal.com"
+        }
+    ]
+}
