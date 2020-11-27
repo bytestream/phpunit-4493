@@ -1,7 +1,8 @@
 {
     "name": "kieran/php-unit-bug",
     "require": {
-        "phpunit/phpunit": "^9.4"
+        "phpunit/phpunit": "^9.4",
+        "brianium/paratest": "^6.0"
     },
     "authors": [
         {
